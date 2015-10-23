@@ -1,0 +1,1 @@
+/home/hitkul/code_test/slidshow_c/CMakeFiles/DisplayImage.dir
